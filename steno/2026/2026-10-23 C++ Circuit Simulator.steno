@@ -3,6 +3,7 @@
 @Event: https://cppcon2014.sched.com/event/V0RyBM/lightning-talks
 @Slides: https://github.com/CppCon/CppCon2014/tree/master/Lightning%20Talks/Rolling%20Your%20Own%20Circuit%20Simulator
 @Tags: C++, CppCon 2014, Jeff Trull
+@Language: en_US
 
 |  T P H    E    B G S  | next                           2026-10-23 15:59:22.000
 |     W    *E F         | we have                        2026-10-23 15:59:22.620

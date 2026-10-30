@@ -3,6 +3,7 @@
 @Event: https://cppcon2014.sched.com/event/V0RyBM/lightning-talks
 @Slides: https://github.com/CppCon/CppCon2014/tree/master/Lightning%20Talks/Return%20values%20take%20a%20closure%20walk
 @Tags: C++, CppCon 2014, Martin Troxler
+@Language: en_US
 
 |    P H A     RPB  T   | Martin                         2026-10-27 18:19:45.720
 |  T    R O      B G S  |                                2026-10-27 18:19:46.040
