@@ -5,7 +5,7 @@
 @Tags: C++, CppCon 2014, Julian Smith
 @Language: en_US
 
-Speaker: Meta [Stenographer]
+Comment: [
 |      HRAO EU  PB GT   | lightning                      2026-10-22 15:11:24.000
 |  T     A   U   B G S  | talk                           2026-10-22 15:11:24.430
 |   K      -  F P L T   | {:}                            2026-10-22 15:11:24.910
@@ -25,6 +25,7 @@ Speaker: Meta [Stenographer]
 |  T PW  AO EU          | 2014                           2026-10-22 15:11:35.730
 |  T P    O E  R    T   | `                              2026-10-22 15:11:36.290
 |!                      |                                2026-10-22 15:11:37.550
+]
 
 Audio-Time: [00:00:00]
 Speaker: [Kate Gregory]
@@ -2029,6 +2030,6 @@ Audio-Time: [00:13:58]
 |  T   H     U          | thank you                      2026-10-22 15:25:47.620
 |    P     -    P       | {.}                            2026-10-22 15:25:47.740
 
-Speaker: [Audience]
+Speaker: [audience]
 Audio-Time: [00:14:04]
 |                       | (applause)
