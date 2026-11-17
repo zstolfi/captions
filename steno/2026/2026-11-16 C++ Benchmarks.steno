@@ -26,7 +26,7 @@
 |        AO             | on                             2026-11-16 22:05:42.350
 |    P H AO EU R B G    | micro                          2026-11-16 22:05:42.990
 |    PW     E FRPBLG    | benchmarks                     2026-11-16 22:05:43.350
-|    P H A     R B G S  | {#}                            2026-11-16 22:05:43.580
+|    P H A     R B G S  | `                              2026-11-16 22:05:43.580
 |                       | {.}
 |      H AO E          Z| he's                           2026-11-16 22:05:43.820
 |        A  EU          | a                              2026-11-16 22:05:43.980
@@ -138,7 +138,7 @@ Speaker: [Lenny Maiorani]
 |          * U  PBLG S  | you just                       2026-11-16 22:06:30.380
 |       RA *E        S  |                                2026-11-16 22:06:30.670
 |  T P     -            |                                2026-11-16 22:06:30.830
-|                       | list to what
+|                       | listen to what
 |   K  H A     RPBL   D | Chandler                       2026-11-16 22:06:31.660
 |                       | says
 | S KP   A   U    L  S Z| and always                     2026-11-16 22:06:32.510
@@ -327,7 +327,7 @@ Speaker: [Lenny Maiorani]
 |     W  AO*EU    L   D | widely                         2026-11-16 22:08:01.980
 | S     RA  EU R   G    | varying                        2026-11-16 22:08:02.610
 |    PW     E FRPBLG    | benchmarks                     2026-11-16 22:08:02.990
-|    P H A     R B G S  | {#}                            2026-11-16 22:08:03.180
+|    P H A     R B G S  | `                              2026-11-16 22:08:03.180
 |          -    P       | {.}                            2026-11-16 22:08:03.280
 | S       O             | so                             2026-11-16 22:08:03.400
 |    P     -            | {,}                            2026-11-16 22:08:03.800
@@ -632,7 +632,7 @@ Speaker: [audience]
 |                       | and just doing a guess {?}
 
 Speaker: [Lenny Maiorani]
-|   K W RA   U          | eah                            2026-11-16 22:10:29.150
+|   K W RA   U          | yeah                           2026-11-16 22:10:29.150
 |    P  RA *  F         | {.}                            2026-11-16 22:10:30.020
 
 Speaker: [audience]
@@ -771,7 +771,7 @@ Speaker: [Lenny Maiorani]
 |           EU RP L  S  | I did                          2026-11-16 22:11:35.220
 |  T   H   -            | this                           2026-11-16 22:11:35.340
 |    PW     E FRPBLG    | benchmark                      2026-11-16 22:11:35.890
-|    P H A     R B G S  | {#}                            2026-11-16 22:11:36.110
+|    P H A     R B G S  | `                              2026-11-16 22:11:36.110
 |         O             | on                             2026-11-16 22:11:36.810
 |   K W R   EU  PB  TS  | ints                           2026-11-16 22:11:38.620
 |    P     -            | {,}                            2026-11-16 22:11:38.800
